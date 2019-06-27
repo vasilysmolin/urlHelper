@@ -4,16 +4,16 @@
 composer.json лоакльное подключение: 
 
         {
-                "name": "splaa/testblog",
+                "name": "vasilysmolin/testblog",
                 "minimum-stability": "dev",
                 "repositories": [
                     {
                         "type": "path",
-                        "url": "e:/sites/composer-packages/splx/helperurl"
+                        "url": "e:/sites/composer-packages/vasilysmolin/helperurl"
                     }
                 ],
                 "require": {
-                    "splx/helperurl": "1.0"
+                    "vasilysmolin/helperurl": "1.0"
                 }
             }
 
