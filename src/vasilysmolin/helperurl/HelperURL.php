@@ -8,7 +8,7 @@
          * @return mixed
          */
 
-         public function getCurPageURL()
+         public function getCurPageURL ()
          {
              $pageURL = 'http';
              if(isset($_SERVER['HTTPS'])){
