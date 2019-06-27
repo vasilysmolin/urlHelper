@@ -19,6 +19,11 @@
   "autoload": {
 	"psr-4": {
 	  "vasilysmolin\\helperurl\\": "src/vasilysmolin/helperurl/"
-	}
+	},
+    "extra": {
+      "branch-alias": {
+        "dev-master": "1.0.x-dev"
+      }
+    }
   }
 }
