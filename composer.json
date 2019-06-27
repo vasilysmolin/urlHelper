@@ -24,8 +24,14 @@
   },
   "scripts": {
     "test": [
+      "phpunit",
       "phpunit"
     ]
+  },
+  "extra": {
+    "branch-alias": {
+      "dev-master": "2.0.0.x-dev"
+    }
   },
   "version": "2",
   "autoload": {
